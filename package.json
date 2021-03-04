@@ -44,7 +44,9 @@
     "core-js": "2.6.0",
     "flow-static-land": "0.2.8",
     "graphql": "14.0.2",
-    "zen-observable": "0.8.11",
+    "zen-observable": "0.8.11"
+  },
+  "devDependencies": {
     "@babel/core": "7.2.0",
     "@babel/plugin-proposal-class-properties": "7.2.1",
     "@babel/plugin-transform-runtime": "7.2.0",
@@ -77,9 +79,7 @@
     "rollup": "0.67.4",
     "rollup-plugin-babel": "4.1.0",
     "rollup-plugin-commonjs": "9.2.0",
-    "rollup-plugin-node-resolve": "4.0.0"
-  },
-  "devDependencies": {
+    "rollup-plugin-node-resolve": "4.0.0",
     "nps": "5.9.3"
   }
 }
